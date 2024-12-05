@@ -15,9 +15,9 @@ export default function Home() {
           </h1>
           
           <p className="text-lg opacity-90 mb-8 max-w-xl">
-          $BLUNTS isn't just another memecoin - it's your ticket to the moon and beyond. Double up on gains while staying perpetually lifted. Join the most blazing community in crypto!"
-"Get double the lift with $BLUNTS - the first memecoin that keeps you high on profits and good vibes. Two blunts are better than one. Ready to ascend?"
-"$BLUNTS: Where gains meet good times. Double your pleasure with the most uplifting memecoin in the game. When we say 'to the moon' we mean it. Stay lifted!
+          $BLUNTS isn't just another memecoin - it's your ticket to the moon and beyond. Double up on gains while staying perpetually lifted. Join the most blazing community in crypto!
+          Get double the lift with $BLUNTS - the first memecoin that keeps you high on profits and good vibes. Two blunts are better than one. Ready to ascend?
+          $BLUNTS: Where gains meet good times. Double your pleasure with the most uplifting memecoin in the game. When we say 'to the moon' we mean it. Stay lifted!
           </p>
           
           <a 
