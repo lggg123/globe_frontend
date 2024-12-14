@@ -50,7 +50,7 @@ export default function Home() {
               and empty promises.
               <br />
               Globe Town stands as a movement of unity, resilience, and meaningful impact. Together,
-              we're creating a community that values trust, transparency, and transformative change.
+              we&apos;re creating a community that values trust, transparency, and transformative change.
               Join the town, make a difference, and let&apos;s build a legacy together! 🌍
             </p>
             <a
