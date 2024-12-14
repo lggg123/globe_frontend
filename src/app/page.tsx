@@ -30,14 +30,14 @@ export default function Home() {
             TOWN
           </h1>
           <p className="text-lg opacity-90 mb-8 max-w-xl leading-relaxed">
-            Welcome to Globe Town. $GLOBE isn't just another memecoin - it's your ticket to the moon
-            and beyond. It's a cultural revolution. Built by solid believers and dreamers, our
+            Welcome to Globe Town. $GLOBE isn&apos;t just another memecoin - it&apos;s your ticket to the moon
+            and beyond. It&apos;s a cultural revolution. Built by solid believers and dreamers, our
             mission is to rewrite the story of the memecoin space—a space plagued by fleeting rugs
             and empty promises.
             <br />
             Globe Town stands as a movement of unity, resilience, and meaningful impact. Together,
-            we're creating a community that values trust, transparency, and transformative change.
-            Join the town, make a difference, and let's build a legacy together! 🌍
+            we&apos;re creating a community that values trust, transparency, and transformative change.
+            Join the town, make a difference, and let&apos;s build a legacy together! 🌍
           </p>
           <a
             href=" "
